@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967422876975",
+    "project_id": "petsinsta-5be2b",
+    "storage_bucket": "petsinsta-5be2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967422876975:android:055fe1d8b09a0ddfc895da",
+        "android_client_info": {
+          "package_name": "com.pm1.petsinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967422876975-4pte3es8vcapnolq5m9e8oc20v30blb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77Nd4EJ4_bJCgm3rEAM7nBES3K-b2860"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967422876975-4pte3es8vcapnolq5m9e8oc20v30blb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

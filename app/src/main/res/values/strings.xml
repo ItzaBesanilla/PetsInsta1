@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pets Insta</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnAcceder">Acceder</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="cerrarSesion">Cerrar sesión</string>
+    <string name="prefs_file">com.pm1.petsinsta.PREFERENCE_FILE_KEY</string>
+</resources>
